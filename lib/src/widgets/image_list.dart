@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import '../models/image_model.dart';
+import 'package:transparent_image/transparent_image.dart';
 
 class ImageList extends StatelessWidget {
    final List<ImageModel> images;
